@@ -1,3 +1,3 @@
-# WordPress Examples
+# Core PHP Examples
 
-This Repo contains the examples of WordPress Actions/Filters.
+This Repo contains the simple examples of PHP.
