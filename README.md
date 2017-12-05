@@ -1,6 +1,3 @@
-# PHP Examples
+# Core PHP Examples
 
-This Repo contains the examples of PHP.
-1. Core PHP
-2. WordPress
-3. Drupal
+It contains the simple examples of PHP.
